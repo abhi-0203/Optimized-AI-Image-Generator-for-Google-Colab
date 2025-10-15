@@ -37,7 +37,7 @@ A high-performance, memory-optimized image generation interface built specifical
 ## 🚀 Quick Start
 
 ### Option 1: Direct Colab Launch
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/optimized-ai-image-generator/blob/main/optimized_genai_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/abhi-0203/Optimized-AI-Image-Generator-for-Google-Colab/blob/main/optimized_genai_colab.ipynb])
 
 ### Option 2: Manual Setup
 
