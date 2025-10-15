@@ -57,7 +57,7 @@ A high-performance, memory-optimized image generation interface built specifical
 3. **Run the Application**
    ```python
    # Download and run the optimized script
-   !wget https://raw.githubusercontent.com/your-username/optimized-ai-image-generator/main/optimized_genai_colab.py
+   !wget https://github.com/abhi-0203/Optimized-AI-Image-Generator-for-Google-Colab/blob/main/optimized_genai_colab.ipynb
    %run optimized_genai_colab.py
    ```
 
@@ -210,10 +210,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Add docstrings for new functions
 - Test changes in Google Colab
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Hugging Face**: For the amazing Diffusers library
@@ -223,15 +219,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/optimized-ai-image-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/optimized-ai-image-generator/discussions)
-- **Documentation**: Check the [setup guide](colab-setup-guide.md) for detailed instructions
+- **Issues**: [GitHub Issues](https://github.com/abhi-0203/Optimized-AI-Image-Generator-for-Google-Colab/issues)
 
-## 🔗 Related Projects
-
-- [Diffusers](https://github.com/huggingface/diffusers) - State-of-the-art diffusion models
-- [Gradio](https://github.com/gradio-app/gradio) - Build ML web apps
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Original implementation
 
 ## 📈 Roadmap
 
