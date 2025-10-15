@@ -48,8 +48,10 @@ A high-performance, memory-optimized image generation interface built specifical
 
 2. **Install Dependencies**
    ```python
-   !pip install -U diffusers transformers accelerate xformers gradio
-   !pip install -U torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   !pip install torch
+   !pip install -U xformers --index-url https://download.pytorch.org/whl/cu126
+   !pip install diffusers==0.32.2
+   !pip install transformers==4.49
    ```
 
 3. **Run the Application**
